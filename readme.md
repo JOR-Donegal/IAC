@@ -1,1 +1,1 @@
-# Master repo for Infrastructure as code
+Infrastructure as code
