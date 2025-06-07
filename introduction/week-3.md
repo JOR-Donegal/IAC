@@ -25,6 +25,7 @@ Create a clone of your desktop VM and call it ub2404-Development1.&#x20;
 On this VM, install (or verify if already installed)
 
 1. Python
-2. GitHub and GitHub desktop. For the desktop tool, I used instructions I found [here](https://github.com/shiftkey/desktop?tab=readme-ov-file#installation-via-package-manager). Link your repo to GitHub desktop. Do some reading with regard to a tool to authorize a Linux server from the command line (**gh auth login**) and install **gh**.&#x20;
-3. Visual Studio Code (VSC). The home repo is [here](https://github.com/microsoft/vscode), and in the readme, I found a link to the main website with installation instructions.
+2. OpenSSH Server
+3. GitHub and GitHub desktop. For the desktop tool, I used instructions I found [here](https://github.com/shiftkey/desktop?tab=readme-ov-file#installation-via-package-manager). Link your repo to GitHub desktop. Do some reading with regard to a tool to authorize a Linux server from the command line (**gh auth login**) and install **gh**.&#x20;
+4. Visual Studio Code (VSC). The home repo is [here](https://github.com/microsoft/vscode), and in the readme, I found a link to the main website with installation instructions.
 
