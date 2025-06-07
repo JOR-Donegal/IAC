@@ -9,13 +9,13 @@ I have stopped giving detailed notes for doing these installs, as the process ca
 This week I need you to install on your host computer
 
 1. Python (latest version)
-2. Notepad++
-3. Visual Studio Code (VSC)
-4. Putty
-5. WinSCP
-6. GitHub and GitHub desktop. Link your repo to GitHub desktop and sync a local copy of Week1 and Week2.
+2. GitHub and GitHub desktop. Link your repo to GitHub desktop and sync a local copy of Week1 and Week2.
+3. Notepad++
+4. Visual Studio Code (VSC)
+5. Putty
+6. WinSCP
 
-Create a clone of your desktop VM and call it ub2404-Development1.&#x20;
+Create a clone of your desktop VM and call it **ub2404-Development1**.&#x20;
 
 1. Configure it in the NAT'd subnet and make sure you can sketch the network. As always, test!
 2. Do updates and document in the description box.&#x20;
@@ -28,4 +28,8 @@ On this VM, install (or verify if already installed)
 2. OpenSSH Server
 3. GitHub and GitHub desktop. For the desktop tool, I used instructions I found [here](https://github.com/shiftkey/desktop?tab=readme-ov-file#installation-via-package-manager). Link your repo to GitHub desktop. Do some reading with regard to a tool to authorize a Linux server from the command line (**gh auth login**) and install **gh**. Link your repo to GitHub desktop and sync a local copy of Week1 and Week2.
 4. Visual Studio Code (VSC). The home repo is [here](https://github.com/microsoft/vscode), and in the readme, I found a [link](https://code.visualstudio.com/download) to the main website with installation instructions.
+
+Finally!
+
+See if you can connect from your host computer to **ub2404-Development1** using SSH and WinSCP.
 
