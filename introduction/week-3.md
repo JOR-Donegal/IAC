@@ -1,3 +1,7 @@
+---
+description: What to do in week 3
+---
+
 # Week 3
 
 I need you to begin to understand academic writing. Review my note on [academic reports](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/Ln5NN2lLLiBBdr87ld9c/) and download my template. Document the work below as an academic report.
@@ -15,12 +19,9 @@ This week I need you to install on your host computer
 5. Putty
 6. WinSCP
 
-Create a clone of your desktop VM and call it **ub2404-Development1**.&#x20;
+Using the clone of your desktop VM **ub2404-Development1**.&#x20;
 
-1. Configure it in the NAT'd subnet and make sure you can sketch the network. As always, test!
-2. Do updates and document in the description box.&#x20;
-3. Change the hostname to ub2404-Development1 and give it an appropriate static IP address.
-4. It is easiest if you access this via RDP, not via VMWare Workstation. Test that you can do that.
+1. It is easiest if you access this via RDP, not via VMWare Workstation. Test that you can do that.
 
 On this VM, install (or verify if already installed)
 
