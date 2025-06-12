@@ -12,4 +12,4 @@ This week, go through my notes on using [VMWare Workstation](https://app.gitbook
 
 As you are going on, record what you are doing. Your records should be sufficient that you can recreate the work with no other assistance.&#x20;
 
-In week 2, you will put these notes into a particular format and make them accessible to me.
+In week 2, you will put these notes into a particular format and make them accessible to me and you have some VMs to work with.
