@@ -6,5 +6,5 @@ When we are working on OS scripting, we need to begin by being able to work at t
 
 Begin by understanding how to use the [command prompt](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/171baNJSmfHdbpzOrDiT/).
 
-Then move on to automating this by creating and executing batch files.
+Then move on to automating this by creating and executing [batch files](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/4Q4hTRkjEUR4uXPy4TCb/).
 
