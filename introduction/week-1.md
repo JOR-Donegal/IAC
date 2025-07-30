@@ -4,7 +4,7 @@ description: What to do in week 1
 
 # Week 1
 
-Go through my [Getting Started](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/WV8s0r99HUGRyM15Pqxl/) notes before doing anything else.&#x20;
+Go through my [Getting Started](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/WV8s0r99HUGRyM15Pqxl/) notes before doing anything else and read my very basic [background notes](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/Nttic2PELKMDcU8y9RIw/).&#x20;
 
 I need you to be able to use a basic virtualization technology before we can continue.&#x20;
 
