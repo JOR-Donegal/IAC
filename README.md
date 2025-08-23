@@ -1,6 +1,10 @@
-# Introduction
+---
+description: Introduction
+---
 
-Welcome to this module, Infrastructure as Code
+# Infrastructure as Code
+
+Welcome to this module, Infrastructure as Code (IaC)
 
 This is intended as a foundation module and has minimal prerequisites. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn.&#x20;
 
