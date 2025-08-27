@@ -8,7 +8,7 @@ This week, we are going to work at the command prompt and get the first scriptin
 
 When we are working on OS scripting, we need to begin by being able to work at the command prompt and then move on to creating reusable scripts based on our knowledge of the underlying commands.
 
-Begin by understanding how to use the command prompt.
+Begin by understanding [how to use the command prompt](https://johnoraw-education.gitbook.io/iac/linux-command-line).
 
 Then move on to automating this by creating and executing script files. Personalize these script files, change the names, dates and adjust how they work.
 
