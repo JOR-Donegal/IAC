@@ -1,5 +1,5 @@
 ---
-description: Getting Started
+description: Your computer
 ---
 
 # Week 1
