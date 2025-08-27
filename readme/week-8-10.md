@@ -8,7 +8,7 @@ We are going to spend the next few weeks learning a first serious programming la
 
 We will use Visual Studio Code and run through a family of examples. As always, you will record these examples and save them to GITHUB, in a directory called **Python**.&#x20;
 
-There are 12 sections in my Python notes, create a directory under **\Python** for each section.
+There are 12 sections in [my Python notes](https://johnoraw-education.gitbook.io/iac/python-for-cloud-scripters), create a directory under **\Python** for each section.
 
 Put scripts into the root of that directory. Put screenshots of the outcome/test in a subdirectory called **Images**
 
