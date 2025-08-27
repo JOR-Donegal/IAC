@@ -12,4 +12,4 @@ Begin by understanding [how to use the command prompt](https://johnoraw-educatio
 
 Then move on to[ automating this](https://johnoraw-education.gitbook.io/iac/automating-linux) by creating and executing script files. Personalize these script files, change the names, dates and adjust how they work.
 
-Create a folder called Week 5 in your repo and when complete, upload your report in a PDF format. Each script file should be included in an appendix, along with a screen shot of it running.
+Create a folder called Linux in your repo and when complete, upload your report in a PDF format. Each script file should be included in an appendix, along with a screen shot of it running.

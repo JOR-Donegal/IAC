@@ -12,5 +12,5 @@ Begin by understanding how to use the [command prompt](https://app.gitbook.com/o
 
 Then move on to automating this by creating and executing [batch files](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/4Q4hTRkjEUR4uXPy4TCb/). Personalise these batch files, change the names, dates and adjust how they work.
 
-Create a folder called Week 4 in your repo and when complete, upload your report in a PDF format. Each batch file should be included in an appendix, along with a screen shot of it running.
+Create a folder called DOS in your repo and when complete, upload your report in a PDF format. Each batch file should be included in an appendix, along with a screen shot of it running.
 

@@ -8,7 +8,7 @@ Welcome to this module, Infrastructure as Code (IaC)
 
 This is intended as a foundation module and has minimal prerequisites. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn.&#x20;
 
-If you are doing this module remotely, you need a good modern computer, review my "Getting Started notes now to understand what you need.
+If you are doing this module remotely, you need a good modern computer, review my "Getting Started notes in Week 1 to understand what you need.
 
 ## Copyright
 
