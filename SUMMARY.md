@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Infrastructure as Code](README.md)
-  * [Week 2](introduction/week-1.md)
+  * [Week 1](readme/week-1.md)
+  * [Week 2](readme/week-1-1.md)
   * [Week 3](introduction/week-2.md)
   * [Week 4](introduction/week-3.md)
   * [Week 5](readme/week-5.md)
