@@ -6,9 +6,9 @@ description: Introduction
 
 Welcome to this module, Infrastructure as Code (IaC). I plan and orchestrate my modules with 10 weeks of content, weeks 2-11.&#x20;
 
-I reserve week 1 for introductions and getting running.&#x20;
+I reserve week 1 for introductions and getting started.&#x20;
 
-I reserve week 12 for clean up at the end...or run over time if we need it.
+I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
 This module is intended as a foundation module and has minimal prerequisites. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn.&#x20;
 
