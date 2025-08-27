@@ -1,10 +1,14 @@
 ---
-description: What to do in week 6
+description: What to do in week 5
 ---
 
 # Week 6
 
-This week, we are going to work at the command prompt and get the first scripting done, all in a Linux environment.
+In data centres, we will see Unix and its derivatives much more frequently than we see Windows. Although there are many commercial Unix and Linux distributions (or distros!), we will focus on one version of Linux, Ubuntu.
+
+This collection of notes has its origin in teaching from c. 2010 and I have updated them annually.&#x20;
+
+So this week, we are going to work at the command prompt and get the first scripting done, all in a Linux environment.
 
 When we are working on OS scripting, we need to begin by being able to work at the command prompt and then move on to creating reusable scripts based on our knowledge of the underlying commands.
 
