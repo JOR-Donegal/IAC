@@ -1,8 +1,8 @@
 ---
-description: What to do in week 1
+description: What to do in week 2
 ---
 
-# Week 1
+# Week 2
 
 Go through my [Getting Started](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/WV8s0r99HUGRyM15Pqxl/) notes before doing anything else. These notes are the same for each module, so if you have gone through these on one of my previous modules, all good.  Next read my very basic [background](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/Nttic2PELKMDcU8y9RIw/) to computing. &#x20;
 

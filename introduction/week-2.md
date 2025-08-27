@@ -1,8 +1,8 @@
 ---
-description: What to do in week 2
+description: What to do in week 3
 ---
 
-# Week 2
+# Week 3
 
 The next skill you need is a basic ability to use GitHub. I no longer provide my own notes for this. The aim is to give you basic competence to create and consume material on GitHub. I am not trying to make you into developers, but scripters; developers light!
 
