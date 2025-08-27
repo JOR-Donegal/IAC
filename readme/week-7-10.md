@@ -1,8 +1,8 @@
 ---
-description: What to do in week 7-9
+description: What to do in week 7-10
 ---
 
-# Week 7-9
+# Week 7-10
 
 We are going to spend the next few weeks learning a first serious programming language, Python. I'm trying to make you a competent scripter, not a professional programmer. At the end of this sequence, you should be able to automate many standard tasks.
 
