@@ -32,3 +32,5 @@ C:.
 
 C:\Users\John.ORaw\Python>
 ```
+
+Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.

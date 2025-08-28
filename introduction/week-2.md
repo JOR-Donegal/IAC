@@ -18,3 +18,5 @@ The aim is to give you basic competence to create and consume material on GitHub
 5. Create a **README.md** file, you will update this throughout this module, I will give some guidelines as to what I expect the anatomy to be.
 6. In the repo **IaC**, create a folder called **Week2**. Convert your notes from week 2 into a markdown format and copy them up to this folder. &#x20;
 7. In the repo **IaC**, create a folder called **Week3**. Copy up a cheat-sheet of Git command AND a cheat sheet of markdown elements to this folder.  Both documents should use well structured markdown.
+
+Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.

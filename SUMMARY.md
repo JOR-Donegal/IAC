@@ -10,3 +10,4 @@
   * [Week 7](readme/week-7.md)
   * [Week 8-10](readme/week-8-10.md)
   * [Week 11](readme/week-11.md)
+  * [Finally](readme/finally.md)

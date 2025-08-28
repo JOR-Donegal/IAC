@@ -6,7 +6,7 @@ description: What to do in week 4
 
 I need you to begin to understand academic writing. Review my note on [academic reports](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/Ln5NN2lLLiBBdr87ld9c/) and download my template. Document the work below as an academic report.
 
-I want you to be able to work seamlessly between your Windows host and your Linux VM. For that reason, we will install tools on both environments. If you are working in a University lab, these are already installed. Keep the records of your work in a laboratory report. Create a folder called Week 4 in your repo and when complete, upload your report in a PDF format.
+I want you to be able to work seamlessly between your Windows host and your Linux VM. For that reason, we will install tools on both environments. If you are working in a University lab, these are already installed.&#x20;
 
 I have stopped giving detailed notes for doing these installs, as the process can change from year to year. And at L9, it is really much better if you figure these out for yourself.
 
@@ -32,7 +32,11 @@ On this VM, install (or verify if already installed)
 
 See if you can connect from your host computer to **ub2404-Development1** using SSH and WinSCP.
 
-Finally!
+Keep the records of your work in a laboratory report.&#x20;
+
+Create a folder called Week 4 in your repo and when complete, upload your report in a PDF format.
+
+Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.
 
 After this we are going to be writing scripts and coding. Do a little background reading on the [programming paradigms](https://johnoraw-education.gitbook.io/iac/programming-paradigms) that are available to use.
 

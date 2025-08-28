@@ -13,3 +13,5 @@ Begin by understanding how to use the PowerShell command prompt and a basic edit
 Then move on to automating this by creating and executing script files. Personalize these script files, change the names, dates and adjust how they work. For the first time, we will attempt configuration at scale.
 
 Create a folder called PowerShell in your repo and when complete, upload your report in a PDF format. Each script file should be included in an appendix, along with a screen shot of it running.
+
+Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.

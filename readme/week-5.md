@@ -14,3 +14,5 @@ Then move on to automating this by creating and executing [batch files](https://
 
 Create a folder called DOS in your repo and when complete, upload your report in a PDF format. Each batch file should be included in an appendix, along with a screen shot of it running.
 
+Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.
+

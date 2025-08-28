@@ -17,3 +17,5 @@ You could do all of this using scripts, but Ansible is normally more efficient, 
 Read through the [ansible site documentation](https://www.ansible.com/) to familiarize yourself.&#x20;
 
 Create a folder called Ansible in your repo and when complete, upload your report in a PDF format. Each playbook should be included in an appendix, along with a screen shot of it running.
+
+Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.
