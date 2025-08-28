@@ -4,7 +4,9 @@ description: What to do in week 3
 
 # Week 3
 
-The next skill you need is a basic ability to use GitHub. I no longer provide my own notes for this. The aim is to give you basic competence to create and consume material on GitHub. I am not trying to make you into developers, but scripters; developers light!
+The next skill you need is a basic ability to use GitHub. I no longer provide my own practical notes for this. However, read [this primer](https://johnoraw-education.gitbook.io/iac/version-control) to get an idea of the context.
+
+The aim is to give you basic competence to create and consume material on GitHub. I am not trying to make you into developers, but scripters; developers light!
 
 1. Clone your Ubuntu Desktop and call it **ub2404-Development1**, use that for these exercises.
    1. Configure it in the NAT'd subnet and make sure you can sketch the network. As always, test!
