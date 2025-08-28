@@ -30,7 +30,9 @@ On this VM, install (or verify if already installed)
 3. GitHub and GitHub desktop. For the desktop tool, I used instructions I found [here](https://github.com/shiftkey/desktop?tab=readme-ov-file#installation-via-package-manager). Link your repo to GitHub desktop. Do some reading with regard to a tool to authorize a Linux server from the command line (**gh auth login**) and install **gh**. Link your repo to GitHub desktop and sync a local copy of Week1 and Week2.
 4. Visual Studio Code (VSC). The home repo is [here](https://github.com/microsoft/vscode), and in the readme, I found a [link](https://code.visualstudio.com/download) to the main website with installation instructions.
 
+See if you can connect from your host computer to **ub2404-Development1** using SSH and WinSCP.
+
 Finally!
 
-See if you can connect from your host computer to **ub2404-Development1** using SSH and WinSCP.
+After this we are going to be writing scripts and coding. Do a little background reading on the [programming paradigms](https://johnoraw-education.gitbook.io/iac/programming-paradigms) that are available to use.
 
