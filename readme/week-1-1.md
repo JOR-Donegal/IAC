@@ -4,7 +4,7 @@ description: What to do in week 2
 
 # Week 2
 
-Read my very basic [background](https://johnoraw-education.gitbook.io/iac/background) to computing for some background. &#x20;
+Read my very basic [background](https://johnoraw-education.gitbook.io/iac/background) to computing for some context. &#x20;
 
 I need you to be able to use a basic virtualization technology before we can continue. This week, go through my notes on using [VMWare Workstation](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/OCCmaJBQU9gxcvffQxIZ/).
 
