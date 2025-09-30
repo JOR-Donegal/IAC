@@ -16,7 +16,7 @@ The aim is to give you basic competence to create and consume material on GitHub
 3. At the [GitHub skills site](https://skills.github.com/), run through the [first day on GitHub](https://skills.github.com/#first-day-on-github) exercises. You will use markdown throughout this course of study.
 4. Create a repo called **IaC**. This is where you will submit all your material for this module. Make sure the repo is private, then send your lecturer an invite as a contributor.
 5. Create a **README.md** file, you will update this throughout this module, I will give some [guidelines ](https://johnoraw-education.gitbook.io/iac/python-for-cloud-scripters/12.-projects/markdown)as to what I expect the anatomy to be.
-6. In the repo **IaC**, create a folder called **Week2**. Convert your notes from week 2 into a markdown format and copy them up to this folder. &#x20;
+6. In the repo **IaC**, create a folder called **Week2**. Convert your notes from week 2 into a markdown format and copy them up to this folder. This should be c. 50 lines or so, no screenshots.&#x20;
 7. In the repo **IaC**, create a folder called **Week3**. Copy up a cheat-sheet of Git command AND a cheat sheet of markdown elements to this folder.  Both documents should use well structured markdown.
 
 Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.
