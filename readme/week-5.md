@@ -16,3 +16,26 @@ Create a folder called DOS in your repo and when complete, upload your report in
 
 Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.
 
+## Readme.md
+
+Its time to homogenize the readme.md files in the root of the IaC repo before we go any further. Edit so you have the following headings and content. Keep the page short and simple.
+
+1. Description
+
+A single paragraph, what the repo is for.
+
+2. Contents
+
+This could include links to each assignment, with a brief description of what was done.
+
+3. Dependencies
+4. Author
+
+Include fields for
+
+* LNumber
+* Name
+* Course
+* Module
+
+5. License
