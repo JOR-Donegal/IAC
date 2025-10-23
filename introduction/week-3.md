@@ -13,7 +13,7 @@ I have stopped giving detailed notes for doing these installs, as the process ca
 This week I need you to install on your host computer
 
 1. Python (latest version). Make sure to tick to add Python to your PATH.
-2. GitHub and GitHub desktop. Link your repo to GitHub desktop and sync a local copy of Week2 and Week3.
+2. Git and GitHub desktop. Link your repo to GitHub desktop and sync a local copy of Week2 and Week3.
 3. Notepad++
 4. Visual Studio Code (VSC)
 5. Putty
