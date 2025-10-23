@@ -27,7 +27,7 @@ On this VM, install (or verify if already installed)
 
 1. Python.  Make sure to tick to add Python to your PATH.
 2. OpenSSH Server
-3. GitHub and GitHub desktop. For the desktop tool, I used instructions I found [here](https://github.com/shiftkey/desktop?tab=readme-ov-file#installation-via-package-manager). Link your repo to GitHub desktop. Do some reading with regard to a tool to authorize a Linux server from the command line (**gh auth login**) and install **gh**. Link your repo to GitHub desktop and sync a local copy of Week1 and Week2.
+3. Git and GitHub desktop. For the desktop tool, I used instructions I found [here](https://github.com/shiftkey/desktop?tab=readme-ov-file#installation-via-package-manager). Link your repo to GitHub desktop. Do some reading with regard to a tool to authorize a Linux server from the command line (**gh auth login**) and install **gh**. Link your repo to GitHub desktop and sync a local copy of Week1 and Week2.
 4. Visual Studio Code (VSC). The home repo is [here](https://github.com/microsoft/vscode), and in the readme, I found a [link](https://code.visualstudio.com/download) to the main website with installation instructions.
 
 See if you can connect from your host computer to **ub2404-Development1** using SSH and WinSCP.
